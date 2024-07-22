@@ -17,3 +17,11 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/mhmohamad1380/netbaan_task.git
 cd netbaan_task
+```
+### 2. Running Project
+
+Run the command below to let docker Build the Project:
+
+```bash
+docker compose up --build
+```
